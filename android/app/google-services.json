@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616577091299",
+    "project_id": "machinelearning-eece4",
+    "storage_bucket": "machinelearning-eece4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616577091299:android:31ac74e57436471aa367d6",
+        "android_client_info": {
+          "package_name": "com.example.image_classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616577091299-9rqervp5kj9n9p37ogjgbqdpf998e6bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE6RWHzJYtQ-WvNSxLZ2ot7WkjFedk7Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616577091299-9rqervp5kj9n9p37ogjgbqdpf998e6bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
